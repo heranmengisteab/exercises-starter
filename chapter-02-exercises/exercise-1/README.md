@@ -5,13 +5,13 @@ Open up your command-line terminal, and perform the following tasks (no need to 
 
 ```bash
 # Navigate to your "Documents" directory
-
+cd ~/Desktop
 
 # Create a new folder called "quick-exercise"
-
+mkdir "quick-exercise"
 
 # Navigate into the "quick-exercise" folder you just created
-
+cd "quick-exercise"
 
 # Using the text-edit of your choice (e.g., Atom), create a new (empty) file
 # called "constitution.txt" inside the "quick-exercise" folder you made
